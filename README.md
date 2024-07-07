@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Mateus%20Reis%20Bastos&fontColor=000080"/>
+# 💫 About Me:
+👋 I am Network Engineering student <br>
+💞️ I am always learning C++, Python and computer networking.
 
 ---
 # 🧑🏻‍💻 Educational credentials
