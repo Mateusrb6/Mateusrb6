@@ -29,5 +29,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusrbastos/) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mateusrb6&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+
