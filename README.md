@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 I am Network Engineering student <br>
-💞️ I am always learning C++, Python and computer networking.
+💞️ I am always learning C++, Cybersecurity and computer networking.
 
 ---
 # 🧑🏻‍💻 Educational credentials
@@ -10,7 +10,7 @@
 ---
 # 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
