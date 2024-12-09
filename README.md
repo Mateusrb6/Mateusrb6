@@ -1,7 +1,5 @@
-Network Engineering student <br>
-
 # 🧑🏻‍💻 Educational credentials
-
+* Network Engineering student <br>
 * [Courses, curriculum and certificates](https://github.com/Mateusrb6/cursos-certificados)
 
 # 💻 Tech Stack:
