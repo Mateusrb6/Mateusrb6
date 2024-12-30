@@ -1,10 +1,3 @@
-
-<div>
-<img align="right" height="150" src="https://giphy.com/embed/QpVUMRUJGokfqXyfa1" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-numbers-binary-code-QpVUMRUJGokfqXyfa1"  />
-</div>
-###
-
-
 # 👋 Hi there! I'm Mateus Reis  
 
 🎓 **Network Engineering Student**  
