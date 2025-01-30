@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about software, networks, cyber sec
   - 🖥️ Back-End Technologies (Python, C and C++)  
   - 🗄️ Databases (MySQL, MongoDB, PostgreSQL)  
   - ☁️ Cloud & DevOps (Docker)  
-
+  - 🐧 Linux
 ---
 
 
