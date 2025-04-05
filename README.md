@@ -45,7 +45,6 @@ Welcome to my GitHub profile! I'm passionate about software, networks, cyber sec
 ## 📫 Let's Connect!  
 - 📧 Email: mateus.reisbastos@gmail.com  
 - 🌐 LinkedIn: [https://www.linkedin.com/in/mateusrbastos/](https://www.linkedin.com/in/mateusrbastos/)  
-- 🖥️ [Courses, curriculum and certificates](https://github.com/Mateusrb6/cursos-certificados)
 
 ---
 
