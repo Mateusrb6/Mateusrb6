@@ -8,13 +8,13 @@ Welcome to my GitHub profile! I'm passionate about software, networks, cyber sec
 ---
 
 ## 🌟 About Me  
-- 🎯 **Focused on:** Back-end development and security.
+- 🎯 **Focused on:** Networks and security.
 
 - 📚 **Skills I'm studying for:**  
   - 🌐 Networking basics and security  
-  - 🖥️ Back-End Technologies (Python, C and C++)  
-  - 🗄️ Databases (MySQL, MongoDB, PostgreSQL)  
-  - ☁️ Cloud & DevOps (Docker)  
+  - 🖥️ Back-End Technologies (Python and C++)  
+  - 🗄️ Databases
+  - ☁️ Cloud & DevOps
   - 🐧 Linux
 ---
 
