@@ -47,11 +47,6 @@ Welcome to my GitHub profile! I'm passionate about software, networks, cyber sec
 
 ---
 
-## ⚡ Fun Fact  
-🌟 Software is a journey, not just a product!  
-
-Feel free to explore my repositories, fork projects, or contribute! 🚀  
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/mateusrb6/mateusrb6/output/snake.svg" alt="Snake animation" />
