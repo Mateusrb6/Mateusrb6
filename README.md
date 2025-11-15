@@ -3,19 +3,17 @@
 🎓 **Network Engineering Student**  
 🌍 Based in Brazil  
 
-Welcome to my GitHub profile! I'm passionate about networks, cybersecurity and constantly learning new technologies.  
+Welcome to my GitHub profile! I'm passionate about networking, cybersecurity and constantly learning new technologies.  
 
 ---
 
 ## 🌟 About Me  
-- 🎯 **Focused on:** Networks and security.
+- 🎯 **Focused on:** Network engineering related areas.
 
 - 📚 **Skills I'm studying for:**  
-  - 🌐 Networking and security  
-  - 🖥️ Back-End Technologies (Python and C++)  
-  - 🗄️ Databases
-  - ☁️ Cloud & DevOps
+  - 🌐 Network security and automation
   - 🐧 Linux
+  - 🖥️ Back-End Technologies (Python and C++)  
 ---
 
 
