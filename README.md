@@ -36,6 +36,11 @@ Welcome to my GitHub profile! I'm passionate about networking, cybersecurity and
 ![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusrb6&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrb6&layout=compact&theme=radical)  
 
+--- 
+
+## 👨🏻‍💻 Try Hack Me
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5982398" style='border:none;'></iframe>
 
 ---
 
