@@ -40,7 +40,9 @@ Welcome to my GitHub profile! I'm passionate about networking, cybersecurity and
 
 ## 👨🏻‍💻 Try Hack Me
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5982398)
+<div align="center">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5982398" alt="TryHackMe Badge" />
+</div>
 
 ---
 
